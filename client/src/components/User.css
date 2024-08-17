@@ -1,0 +1,43 @@
+
+
+.outer{
+ background-color: rgb(46, 47, 47);
+ height: 100vh;
+  width: 100vw; 
+  /* background-image: url('./soa.png'); */
+
+    background-size: 300px 300px;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+}    
+ h4{
+    font-weight: 100;
+    font-size:20px;
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(255, 255, 255);
+    margin-top: 15px;
+
+}
+.formcontrol{
+    /* background-color: azure; */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container1{
+    /* background-color: azure; */
+    /* background-image:"./soa.png"; */
+    /* background-image: url('./soa.png');
+
+    background-size: 300px 300px;
+    background-repeat: no-repeat;
+    background-position:130px;
+    backdrop-filter:blur(20px);
+    background-color: bisque; */
+    background: rgba( 255, 255, 255, 0 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 10px );
+    -webkit-backdrop-filter: blur( 10px );
+    border-radius: 10px;
+
+}
